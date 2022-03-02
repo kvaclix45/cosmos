@@ -36,13 +36,9 @@
 					<div class="container">
 			  		<div class="row align-items-center">
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
-			  				<ul>
 			  					
 			  			</div>
-			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
-							<div class="header-social">
-								
-							</div>
+			  			
 			  			</div>
 			  		</div>			  					
 					</div>
@@ -53,7 +49,7 @@
 				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
-				      <ul class="nav-menu">
+				        <ul class="nav-menu">
 				          <li><a href="index.html">Home</a></li>
 				          <li><a href="about.html">Time</a></li>
 				          <li><a href="packages.html">gravitational time dilation</a></li>
@@ -62,7 +58,7 @@
 				          <li class="menu-has-children"><a href="blog-home.html">Relativistic time dilation</a>
 				            
 				          </li>	
-				          <li class="menu-has-children"><a href="elements.html"> Interesting Videos</a>
+				          <li class="menu-has-children"><a href="elements.html"> Interesting Video</a>
 				            
 						              
 						          </li>					                		
@@ -71,73 +67,40 @@
 					</div>
 				</div>
 			</header><!-- #header -->
+
 			<!-- start banner Area -->
-			<section class="relative about-banner" id="home">	
+			<section class="banner-area relative blog-home-banner" id="home">	
 				<div class="overlay overlay-bg"></div>
-				<div class="container">				
-					<div class="row d-flex align-items-center justify-content-center">
+				<div class="container">	
+<div class="overlay overlay-bg"><img src="img/960.jpg" width=1910px height=1000px alt=""></div>				
+					
+						<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
-							<h1 class="text-white">
-								Интересные Видео 		
-							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="elements.html"> Interesting Videos</a></p>
+							<h2 class="text-white">
+							<p class="text-white">
+								Релятивистское замедление времени
+							</p>
+							<hr>
+							<h4 class="text-white"> 
+								Смысл этого эффекта заключается в том, что в движущемся теле все физические процессы проходят медленнее. 
+								Классическим примером этого явления является «сценарий близнецов». Представим,
+								что один близнец летит на космическом корабле со скоростью, близкой к скорости света, 
+								а другой остается на Земле. Когда близнец-космонавт вернется на Землю, 
+								постаревшим всего на год или на два, он обнаружит, что его брат стал старше на несколько десятилетий.
+
+Конечно, никто не проводил этот эксперимент в реальной жизни, 
+но есть доказательства тому, что так все и произойдет. Когда ученые 
+запустили атомные часы на орбиту, оставив при этом идентичные часы на Земле, 
+они вернулись, двигаясь с некоторым отставанием от земных.
+							</h4>
+							
 						</div>	
 					</div>
 				</div>
 			</section>
-			<!-- End banner Area -->	
+			<!-- End banner Area -->				  
 
-			<!-- Start Sample Area -->
-			<section class="sample-text-area">
-				<div class="container">
-					<h3 class="text-heading">Интересные видео</h3>
-					<p class="sample-text">
-						<h4>Мы подобрали несколько интересных видео про замедление времени, рекомендуем их для просмотра! Они очень интересны :)</h4>
-
-					</p>
-					
-				</div>
-			</section>
 			
-			<!-- End Sample Area -->
-			<!-- Start Button -->
-			
-				<div class="container border-top-generic">
-					<h3 class="text-heading">Видео:</h3>
-					<div class="button-group-area">
-						<a
-						 <a href="https://youtu.be/SF9yunc4e50" class="genric-btn danger">Почему гравитация ЗАМЕДЛЯЕТ ВРЕМЯ? (feat. Артур Шарифов) Автор: Физика от Побединского</a>
-						<a href="https://metartaf.ru/" class="course-img">
-									<img src="./img/course08.jpg" alt="">
-									
-					</div>
-					<div class="button-group-area mt-10">
-						
-						<a href="https://youtu.be/SF9yunc4e50" class="genric-btn danger">КАК ТЕЧЕТ ВРЕМЯ ВО ВСЕЛЕННОЙ? Автор: Hubble</a>
-					
-					</div>
-					<div class="button-group-area mt-10">
-						
-						<a href="https://youtu.be/UmGGMue1sCs" class="genric-btn danger">Почему замедляется время вблизи массивных планет? Автор: Уже Наступило</a>
-						
-					</div>
-					<div class="button-group-area mt-10">
-						
-						
-						
-					</div>
-					<div class="button-group-area mt-10">
-						
-					
-						
-					</div>
-					<div class="button-group-area mt-10">
-						
-						
-						
-					</div>
-					
-			<!-- End footer Area -->	
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
 			<script src="js/popper.min.js"></script>

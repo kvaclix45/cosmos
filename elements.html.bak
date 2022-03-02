@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Time</title>
+		<title>Time Dilation</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -31,7 +31,6 @@
 			<link rel="stylesheet" href="css/main.css">
 		</head>
 		<body>	
-
 			<header id="header">
 				<div class="header-top">
 					<div class="container">
@@ -39,7 +38,6 @@
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-left">
 			  				<ul>
 			  					
-			  				</ul>			
 			  			</div>
 			  			<div class="col-lg-6 col-sm-6 col-6 header-top-right">
 							<div class="header-social">
@@ -55,7 +53,7 @@
 				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
-				         <ul class="nav-menu">
+				      <ul class="nav-menu">
 				          <li><a href="index.html">Home</a></li>
 				          <li><a href="about.html">Time</a></li>
 				          <li><a href="packages.html">gravitational time dilation</a></li>
@@ -64,7 +62,7 @@
 				          <li class="menu-has-children"><a href="blog-home.html">Relativistic time dilation</a>
 				            
 				          </li>	
-				          <li class="menu-has-children"><a href="elements.html"> Interesting Videos</a>
+				          <li class="menu-has-children"><a href="elements.html"> Interesting Video</a>
 				            
 						              
 						          </li>					                		
@@ -73,70 +71,72 @@
 					</div>
 				</div>
 			</header><!-- #header -->
-			
-			  
 			<!-- start banner Area -->
-			<section class="about-banner relative">
+			<section class="relative about-banner" id="home">	
 				<div class="overlay overlay-bg"></div>
 				<div class="container">				
 					<div class="row d-flex align-items-center justify-content-center">
 						<div class="about-content col-lg-12">
 							<h1 class="text-white">
-								Как идет время в космосе?				
+								Интересные Видео 		
 							</h1>	
-							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="about.html"> Time</a></p>
+							<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span>  <a href="elements.html"> Interesting Video</a></p>
 						</div>	
 					</div>
 				</div>
 			</section>
 			<!-- End banner Area -->	
 
-			<!-- Start about-info Area -->
- 
-			<section class="about-info-area section-gap">
+			<!-- Start Sample Area -->
+			<section class="sample-text-area">
 				<div class="container">
-					<div class="row align-items-center">
-						<div class="col-lg-6 info-left">
-							<img class="img-fluid" src="img/about/info-img.jpg" alt="">
-						</div>
-						<div class="col-lg-6 info-right">
-							<h6>Начнем с простого</h6>
-							<h1>Что такое время?</h1>
-							<p>
-								Время — форма протекания физических и психических процессов, условие возможности изменения. Одно из основных понятий философии и физики, мера длительности существования всех объектов, характеристика последовательной смены их состояний в процессах и самих процессов, изменения и развития, а также одна из координат единого пространства-времени, представления о котором развиваются в теории относительности.
-							</p>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<tr>
-			<tr>
-			
-			<!-- End about-info Area -->
-		    
-			<!-- Start price Area -->
-			<section class="price-area section-gap">
-				<div class="container">
-		            <div class="row d-flex justify-content-center">
-		                <div class="menu-content pb-70 col-lg-8">
-		                    <div class="title text-left">
-													<div class="col-lg-6 info-left">
-							<img class="img-fluid" src="img/about/info-im.jpg" alt="">
-						</div>
-		                        <h1 class="text-black">Как идёт время в космосе?</h1>
-		                        <p class="text-left">Все мы слышали фразу «время относительно». 
-								Она взята из теории относительности Эйнштейна, в которой ученый объединил пространство и время и представил
-								идею ткани «пространство-время», пронизывающей всю Вселенную. Пространство-время может деформироваться материей 
-								и энергией. Поэтому в зависимости от нашего положения и скорости время может казаться нам движущимся быстрее или 
-								медленнее. Так как же идет время в космосе? Если коротко, то время в космосе и на Земле не одинаково. 
-								Чтобы подробнее ответить на этот вопрос, нужно понять, что такое релятивистское и гравитационное замедления времени.м</p> 
-		                    </div>
-		                </div>
-		            </div>
-<a href="packages.html" class="primary-btn text-uppercase">Далее!</a>					
+					<h3 class="text-heading">Интересные видео</h3>
+					<p class="sample-text">
+						<h4>Мы подобрали несколько интересных видео про замедление времени, рекомендуем их для просмотра! Они очень интересны :)</h4>
+
+					</p>
 					
-								
+				</div>
+			</section>
 			
+			<!-- End Sample Area -->
+			<!-- Start Button -->
+			
+				<div class="container border-top-generic">
+					<h3 class="text-heading">Видео:</h3>
+					<div class="button-group-area">
+						<a
+						 <a href="https://youtu.be/SF9yunc4e50" class="genric-btn danger">Почему гравитация ЗАМЕДЛЯЕТ ВРЕМЯ? (feat. Артур Шарифов) Автор: Физика от Побединского</a>
+						<a href="https://metartaf.ru/" class="course-img">
+									<img src="./img/course08.jpg" alt="">
+									
+					</div>
+					<div class="button-group-area mt-10">
+						
+						<a href="https://youtu.be/SF9yunc4e50" class="genric-btn danger">КАК ТЕЧЕТ ВРЕМЯ ВО ВСЕЛЕННОЙ? Автор: Hubble</a>
+					
+					</div>
+					<div class="button-group-area mt-10">
+						
+						<a href="https://youtu.be/UmGGMue1sCs" class="genric-btn danger">Почему замедляется время вблизи массивных планет? Автор: Уже Наступило</a>
+						
+					</div>
+					<div class="button-group-area mt-10">
+						
+						
+						
+					</div>
+					<div class="button-group-area mt-10">
+						
+					
+						
+					</div>
+					<div class="button-group-area mt-10">
+						
+						
+						
+					</div>
+					
 			<!-- End footer Area -->	
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
